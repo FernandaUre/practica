@@ -1,0 +1,20 @@
+#navbar {
+    background-color: rgb(43, 42, 42);
+}
+
+#logoNavbar {
+    width: 8rem;
+    padding: 10px;
+}
+
+#divLinks {
+    display: flex;
+    margin-left: 20rem;
+    width: 50rem;
+}
+
+#LinksNav {
+    margin-left: 2rem;
+    text-decoration: none;
+    color: white;
+}
